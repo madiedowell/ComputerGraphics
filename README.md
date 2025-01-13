@@ -1,3 +1,8 @@
-How to run sample.cpp:
-  make sample
-  ./sample
+## How to Run `sample.cpp`
+
+1. Compile the program using `make`:
+   ```bash
+   make sample
+
+2. Run the compiled program:
+   ./sample
