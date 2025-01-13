@@ -5,4 +5,5 @@
    make sample
 
 2. Run the compiled program:
+   ```bash
    ./sample
